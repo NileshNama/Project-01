@@ -1,8 +1,8 @@
 <!-- Header Section -->
 
-# <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> Project-01 
+# <a href="https://github.com/NileshNama/Project-01" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> Project-01 
 
-[`Live-In-Production Demo`](---------------) _______________________ *Individual Project* | *Duration: 8-10 hours*
+[`Live-In-Production Demo`](https://project-01-by-nileshnama.netlify.app/) _________________________________________ *Individual Project* | *Duration: 8-10 hours*
 
 
 
@@ -11,7 +11,7 @@
 
 <!-- About the Project Section -->
 
- <a href="---------------" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/83578068/185099164-b88af55f-ef6b-4ce4-8feb-46381779f04f.png"   alt=" file 3D Image" width="50" border="10"/> </a> 
+ <a href="https://github.com/NileshNama/Project-01" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/83578068/185099164-b88af55f-ef6b-4ce4-8feb-46381779f04f.png"   alt=" file 3D Image" width="50" border="10"/> </a> 
 
 
 
@@ -29,11 +29,11 @@
   
  <!-- Preview of Project -->
 
-## <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099256-c7ad64bb-0546-4cf9-a6ad-a110745ce406.png" alt="Arrows pic" width="20" border="10" /> </a> Preview (Screenshots) 
+## <a href="https://github.com/NileshNama/Project-01" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099256-c7ad64bb-0546-4cf9-a6ad-a110745ce406.png" alt="Arrows pic" width="20" border="10" /> </a> Preview (Screenshots) 
 
 <!--Images + Link all of to the deployed website/Project site -->
 
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="400" border="10" /></a>
+<a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="project website preview ss" width="400" border="10" /></a>
 
 
 
@@ -43,7 +43,7 @@
 
 <!--  Technology used section -->
 
-##   <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185102636-ad0639d7-8bb4-4529-bb92-bf6b81e7d100.png" alt="animation gif" width="40" border="10" /> </a> Tech stack
+##   <a href="https://github.com/NileshNama/Project-01" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185102636-ad0639d7-8bb4-4529-bb92-bf6b81e7d100.png" alt="animation gif" width="40" border="10" /> </a> Tech stack
 
 
 Tech: `HTML` `CSS`
@@ -57,7 +57,7 @@ Tools: `VS Code`
 
 <!-- learning Section  -->
 
-##  <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099385-899f7571-5682-4841-a218-c5704fcd1816.png" alt="tick box pic" width="30" border="10" /> </a> I learnt 
+##  <a href="https://github.com/NileshNama/Project-01" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099385-899f7571-5682-4841-a218-c5704fcd1816.png" alt="tick box pic" width="30" border="10" /> </a> I learnt 
 
 - HTML tags & CSS basics
 
